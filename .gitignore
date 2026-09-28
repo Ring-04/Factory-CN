@@ -1,0 +1,5 @@
+.DS_Store
+.deps/
+node_modules/
+factory-cn-untranslated*.txt
+*.log
